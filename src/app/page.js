@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import copertina from "../../public/web.jpg";
+import copertina from "../../public/copertina.jpg";
 import styles from "./index.module.scss";
 
 export default function Home() {
