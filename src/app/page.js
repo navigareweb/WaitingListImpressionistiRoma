@@ -15,9 +15,9 @@ export default function Home() {
         />
         <p>
           Inaugura a Roma, la mostra <strong>Impressionisti</strong> propone
-          circa <strong>200 opere</strong>, le quali documentano con dipinti,
+          circa <strong>200 opere</strong>, le quali documentano, con dipinti,
           disegni, acquerelli, sculture, ceramiche e incisioni, gli artisti che
-          parteciparono alle otto mostre ufficiali “ impressioniste” e con una
+          parteciparono alle otto mostre ufficiali “impressioniste” e con una
           particolare attenzione a tutte le tecniche da loro sperimentate e
           utilizzate.
         </p>
